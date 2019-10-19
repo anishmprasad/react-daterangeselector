@@ -12,7 +12,7 @@ import DateRangeSelector from 'react-daterangeselector';
 import 'react-daterangeselector/dist/styles.min.css';
 
 function App() {
-	function cb(start, end) {
+	function callback(start, end) {
 		console.log(start, end);
 	}
 	return (
@@ -46,7 +46,7 @@ function App() {
 					minDate: new Date('2013-10-01T00:00:00.000Z'),
 					alwaysShowCalendars: true
 				}}
-				cb={cb}
+				callback={callback}
 			/>
 		</>
 	);
