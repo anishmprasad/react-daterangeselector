@@ -47,6 +47,8 @@ import 'react-daterangeselector/dist/styles.min.css';
 | autoUpdateInput      | `(true/false)`              | `false`  | Indicates whether the date range picker should automatically update the value of the <input> element it's attached to at initialization and when the selected dates change.                                                                                                                     |
 | parentEl             | `(string)`                  | `false`  | html selector of the parent element that the date range picker will be added to, if not provided this will be 'body'                                                                                                                                                                            |
 
+### Screenshot
+
 ### Licence
 
 Apache 2.0
