@@ -49,6 +49,8 @@ import 'react-daterangeselector/dist/styles.min.css';
 
 ### Screenshot
 
+[Screenshot](https://raw.githubusercontent.com/anishmprasad/react-daterangeselector/master/screenshot/react-daterangeselector-01.png)
+
 ### Licence
 
 Apache 2.0
