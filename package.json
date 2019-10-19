@@ -1,19 +1,23 @@
 {
-  "name": "react-daterangeselector",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anishmprasad/react-daterangeselector.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/anishmprasad/react-daterangeselector/issues"
-  },
-  "homepage": "https://github.com/anishmprasad/react-daterangeselector#readme"
+	"name": "react-daterangeselector",
+	"version": "1.0.1",
+	"description": "a simple datepicker in react",
+	"main": "/dist/index.js",
+	"peerDependencies": {
+		"jquery": "^3.4.1",
+		"moment": "^2.24.0",
+		"react": "^16.9.0",
+		"react-dom": "^16.9.0"
+	},
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/anishmprasad/react-daterangeselector.git"
+	},
+	"author": "Anish M Prasad  | anish.m.prasad@gmail.com",
+	"license": "Apache 2.0",
+	"bugs": {
+		"url": "https://github.com/anishmprasad/react-daterangeselector/issues"
+	},
+	"homepage": "https://github.com/anishmprasad/react-daterangeselector#readme"
 }
