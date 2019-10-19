@@ -2,8 +2,6 @@
 
 ### Options
 
-The beginning date of the initially selected date range. If you provide a string, it must match the date format string set in your locale setting.
-
 | Name                 | Type                        | Required | Description                                                                                                                                                                                                                                                                                     |
 | -------------------- | --------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | inputComponent       | `(HTMLElement)`             | `true`   | A Component for render react-datetimeselector.                                                                                                                                                                                                                                                  |
