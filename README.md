@@ -1,5 +1,16 @@
 # react-daterangeselector
 
+A React component for choosing date ranges, dates and times.
+
+### Getting Started
+
+To get started
+
+```jsx
+import DateRangeSelector from 'react-daterangeselector';
+import 'react-daterangeselector/dist/styles.min.css';
+```
+
 ### Options
 
 | Name                 | Type                        | Required | Description                                                                                                                                                                                                                                                                                     |
@@ -35,3 +46,7 @@
 | isCustomDate         | `(function)`                | `false`  | A function that is passed each date in the two calendars before they are displayed, and may return a string or array of CSS class names to apply to that date's calendar cell.                                                                                                                  |
 | autoUpdateInput      | `(true/false)`              | `false`  | Indicates whether the date range picker should automatically update the value of the <input> element it's attached to at initialization and when the selected dates change.                                                                                                                     |
 | parentEl             | `(string)`                  | `false`  | html selector of the parent element that the date range picker will be added to, if not provided this will be 'body'                                                                                                                                                                            |
+
+### Licence
+
+Apache 2.0
