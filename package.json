@@ -1,17 +1,17 @@
 {
 	"name": "react-daterangeselector",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "A React component for choosing date ranges, dates and times.",
 	"main": "/dist/index.js",
 	"peerDependencies": {
-		"jquery": "^3.4.1",
-		"moment": "^2.24.0",
 		"react": "^16.9.0",
 		"react-dom": "^16.9.0"
 	},
-	"scripts": {
-		"preinstall": "npm i jquery moment"
+	"dependencies": {
+		"jquery": "^3.4.1",
+		"moment": "^2.24.0"
 	},
+	"scripts": {},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/anishmprasad/react-daterangeselector.git"
