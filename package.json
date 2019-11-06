@@ -1,8 +1,9 @@
 {
 	"name": "react-daterangeselector",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"description": "A React component for choosing date ranges, dates and times.",
-	"main": "/dist/index.js",
+	"main": "dist/index.js",
+	"style": "dist/styles.min.css",
 	"peerDependencies": {
 		"react": "^16.9.0",
 		"react-dom": "^16.9.0"
